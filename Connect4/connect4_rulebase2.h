@@ -1,0 +1,1 @@
+int get_position_by_rulebase2();
